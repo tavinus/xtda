@@ -14,8 +14,8 @@
 #       ./xfceterm-disable-accels.sh --help
 #
 # Download
-#   wget '' && chmod +x xfceterm-disable-accels.sh
-#   curl -O -J -L '' && chmod +x xfceterm-disable-accels.sh
+#   wget 'https://raw.githubusercontent.com/tavinus/xtda/master/xfceterm-disable-accels.sh' && chmod +x xfceterm-disable-accels.sh
+#   curl -O -J -L 'https://raw.githubusercontent.com/tavinus/xtda/master/xfceterm-disable-accels.sh' && chmod +x xfceterm-disable-accels.sh
 #
 ################################################################
 
@@ -40,7 +40,7 @@ FLAG_CONTENTS=$TRUE
 XTDA_NAME="$(basename $0)"
 XTDA_LOCATION="$(readlink -f $0)"
 
-XTDAVERSION="0.0.1"
+XTDAVERSION="0.0.2"
 BANNERSTRING="XFCE Terminal Disable Accels v$XTDAVERSION"
 
 
