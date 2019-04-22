@@ -13,9 +13,9 @@
 # Usage ./xfceterm-disable-accels.sh
 #       ./xfceterm-disable-accels.sh --help
 #
-# Download
-#   wget 'https://raw.githubusercontent.com/tavinus/xtda/master/xfceterm-disable-accels.sh' && chmod +x xfceterm-disable-accels.sh
-#   curl -O -J -L 'https://raw.githubusercontent.com/tavinus/xtda/master/xfceterm-disable-accels.sh' && chmod +x xfceterm-disable-accels.sh
+# Download & Run
+#   wget 'https://raw.githubusercontent.com/tavinus/xtda/master/xfceterm-disable-accels.sh' && chmod +x xfceterm-disable-accels.sh && xfceterm-disable-accels.sh
+#   curl -O -J -L 'https://raw.githubusercontent.com/tavinus/xtda/master/xfceterm-disable-accels.sh' && chmod +x xfceterm-disable-accels.sh && xfceterm-disable-accels.sh
 #
 ################################################################
 
